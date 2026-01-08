@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**Kavkazki/Kavkazki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **QA Engineer** specializing in testing **web applications**.
 
-Here are some ideas to get you started:
+## Skills
+- DevTools  
+- REST APIs  
+- SQL  
+- Postman  
+- Swagger  
+- Git  
+- Docker  
+- JMeter  
+- PgAdmin  
+- Charles  
+- Android Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Message me on **Telegram** if you need my services.
